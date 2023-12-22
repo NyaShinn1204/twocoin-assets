@@ -1,1 +1,1 @@
-TwoCoinRaiderのファイルDL用のassetsリポジトリです  
+TwoCoinRaiderでのファイルDL用のassetsリポジトリです  
