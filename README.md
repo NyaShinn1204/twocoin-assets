@@ -1,0 +1,1 @@
+TwoCoinRaiderのファイルDL用のassetsリポジトリです  
